@@ -48,7 +48,7 @@ printf "${NC}";
 
   printf "${GREEN}";
   printf "SISTEMA DE MULTIATENDIMENTO ZION CRM \n";
-  printf "SUPORTE: +5565-99254-2909  \n";
+  printf "SUPORTE: +55 41 99823-9551  \n";
   printf "${NC}";
 
   printf "\n"
